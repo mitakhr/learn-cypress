@@ -1,0 +1,11 @@
+{
+  "name": "cynest",
+  "version": "1.0.0",
+  "description": "e2e test with cypress for fundamental",
+  "main": "index.js",
+  "author": "mita",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
